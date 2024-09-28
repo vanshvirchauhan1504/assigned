@@ -113,6 +113,9 @@ const About = () => {
                 </div>
             </section>
             <section className="w-full flex flex-col lg:flex-row orange-bar">
+
+
+                
                 {/* Left Div: Full-width image */}
                 {
                     categories ? 
